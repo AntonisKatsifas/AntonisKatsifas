@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AntonisKatsifas
+- 👋 Hi, I’m @AntonisK
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Docker/Python/Golang
 - 💞️ I’m looking to collaborate on ...
